@@ -1,11 +1,11 @@
 # Site settings
 author: Eli Huebner
-title: 
+title: Ceorlish Adventures
 header-img: img/home-bg.png
 email: elimhuebner@gmail.com
 copyright_name: Eli Huebner
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A medievalist's journey to the land of code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  HuebnerMedieval
