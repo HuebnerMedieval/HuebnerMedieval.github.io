@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Spellbook CLI"
-date:       2020-10-01 14:25:39 +0000
+date:       2020-10-01 10:25:40 -0400
 permalink:  spellbook_cli
 ---
 
